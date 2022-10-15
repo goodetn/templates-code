@@ -1,0 +1,2 @@
+// Còn đây mô tả chính xác các stack trace(vết tích của stack) được tạo ra trong call stack khi có một exception(ngoại lệ / error) văng ra
+// --- hay còn gọi là trạng thái của Call Stack khi xảy ra exception.Theo dõi đoạn code sau đây.
